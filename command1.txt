@@ -7,3 +7,5 @@ git clone
 git remote -v
 git commit -m "<description>"
 git checkout master
+
+#created new branch and trying to add the new git command
