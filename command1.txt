@@ -9,3 +9,5 @@ git commit -m "<description>"
 git checkout master
 
 #created new branch and trying to add the new git command
+git merge <devbranch> #go to main branch then add the command and then push it.
+git push origin main #push to main
