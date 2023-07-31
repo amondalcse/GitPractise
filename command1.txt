@@ -11,6 +11,3 @@ git checkout master
 #created new branch and trying to add the new git command
 git merge <devbranch> #go to main branch then add the command and then push it.
 git push origin main #push to main
-
-git pull origin <form the branch>
-git push origin <store in the branch and show in the github>
